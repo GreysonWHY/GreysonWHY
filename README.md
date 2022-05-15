@@ -1,4 +1,4 @@
 - 🤘 Hi, I’m GreysonWHY.
 - 👀 I’m interested in tabletop RPGs, linguistics, conlanging, coffee, fountain pens, and everything else.
 - ⚒️ I’m currently working on figuring out how to use GitHub and how to make a text-based RPG.
-- 📫 You can find me and my work at greysonwhy.com, and you can reach me on Twitter: @GreysonWHY, of course.
+- 📫 You can find my stuff at greysonwhy.com, and you can reach me on Twitter: @GreysonWHY, of course.
